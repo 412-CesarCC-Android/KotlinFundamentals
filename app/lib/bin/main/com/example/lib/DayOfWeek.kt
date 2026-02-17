@@ -35,5 +35,6 @@ fun main() {
         //pantalla de configuracion
         //creando la interfaz grafica de la pantalla
         //Agregando estilos
+        //creando modal de la pantalla de config
     }
 }
