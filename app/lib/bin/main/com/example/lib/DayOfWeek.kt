@@ -29,5 +29,7 @@ fun main() {
         5 -> println("Es viernes")
         6,7 -> println("Es fin de semana")
         else -> println("No es un dia de la semana")
+        // Haciendo un cambio
+        // Haciebndo cambio 2
     }
 }
