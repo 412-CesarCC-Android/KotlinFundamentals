@@ -4,7 +4,7 @@
  *
  * Escribir un programa que me muestre los dias de la semana
  * y si es sabado o domingo que escriba Fin de semana
- */asdasdsad
+ */
 //
 fun main() {
     val dayOfTheWeek = 2
@@ -28,11 +28,6 @@ fun main() {
         4 -> println("Es jueves")
         5 -> println("Es viernes")
         6,7 -> println("Es fin de semana")
-
-
-
-
-        esotilinvrad26
         else -> println("No es un dia de la semana")
         // Haciendo un cambio
         // Haciebndo cambio 2
