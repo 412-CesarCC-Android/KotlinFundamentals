@@ -31,5 +31,9 @@ fun main() {
         else -> println("No es un dia de la semana")
         // Haciendo un cambio
         // Haciebndo cambio 2
+
+        //pantalla de configuracion
+        //creando la interfaz grafica de la pantalla
+        //Agregando estilos
     }
 }
