@@ -4,6 +4,7 @@ package Ejercicios
 Usa string templates para imprimir un mensaje con los datos de las variables que ya estan declaradas.
 * */
 fun main() {
+
     val nombre: String = "Carlos"
     val edad: Int = 21
     val estatura: Double = 1.78
