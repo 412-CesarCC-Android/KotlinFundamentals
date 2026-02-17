@@ -10,4 +10,6 @@ fun main() {
     val esEstudiante: Boolean = true
 
     println("Me llamo Carlos, tengo $edad años, mido $estatura y es $esEstudiante que soy estudiante")
+
+
 }
